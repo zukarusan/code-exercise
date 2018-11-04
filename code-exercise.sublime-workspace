@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inputNum2"
+			],
+			[
+				"inp",
+				"inputNum2"
+			],
+			[
+				"stdl",
+				"cstdlib\tstandard header"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"i",
+				"inputInt2"
+			],
+			[
+				"neg",
+				"negativeTotal"
+			],
+			[
+				"pos",
+				"positiveTotal"
+			],
+			[
+				"int",
+				"input"
+			],
+			[
+				"mat",
+				"cmath\tstandard header"
+			],
+			[
+				"rig",
+				"rightState"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"fib",
+				"fibonacciCalls"
+			],
+			[
+				"page",
+				"pageId"
+			],
+			[
+				"Ti",
+				"TiList"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"entr",
+				"entriList"
+			],
+			[
+				"requ",
+				"requestsSession"
+			],
+			[
+				"num",
+				"numberPosition"
+			],
+			[
+				"tim",
+				"timeToGrowInt"
+			],
+			[
+				"time",
+				"timeToGrow"
+			],
+			[
+				"gr",
+				"growMod"
+			],
+			[
+				"vec",
+				"vector\tstandard header"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"grow",
+				"growDiv"
+			],
+			[
+				"wor",
+				"wordInformation"
+			],
+			[
+				"id",
+				"idList"
+			],
+			[
+				"ent",
+				"entriKBBI"
+			],
+			[
+				"req",
+				"requestsSession"
+			],
+			[
+				"def",
+				"definition"
+			],
+			[
+				"lo",
+				"loginState"
+			],
+			[
+				"log",
+				"loginData"
+			],
+			[
+				"spl",
+				"splittedResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andraantariksa/Projects/code-exercise"
+	],
+	"file_history":
+	[
+		"/tmp/fz3temp-2/do2.py",
+		"/home/andraantariksa/Projects/kbbi/scrapper/do2.py",
+		"/home/andraantariksa/Projects/t4.cpp",
+		"/home/andraantariksa/Projects/kbbi/scrapper/do3.py",
+		"/home/andraantariksa/Projects/kbbi/scrapper/entriKBBI.py",
+		"/home/andraantariksa/Projects/kbbi/scrapper/do.py",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-10-28-migrasi-ke-hugo.md",
+		"/home/andraantariksa/Projects/kbbi/README.md",
+		"/home/andraantariksa/Projects/kbbi/scrapper/scrape.py",
+		"/home/andraantariksa/Projects/t.cpp",
+		"/home/andraantariksa/Projects/t.c",
+		"/home/andraantariksa/Projects/kbbi/scrapper/data/data.json",
+		"/home/andraantariksa/Projects/kbbi/scrapper/data/X.json",
+		"/home/andraantariksa/Projects/t3.cpp",
+		"/home/andraantariksa/Projects/t2.cpp",
+		"/home/andraantariksa/Projects/t.py",
+		"/home/andraantariksa/Projects/kbbi/scrapper/data.json",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/config.toml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/_default/single.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/post-header.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-10-22-perbedaan-operator-logika-is-dan-pada-python.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/static/css/main.css",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/post-card.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/tags.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/site-scripts.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/public/index.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/_default/baseof.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/footer.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/post/config.toml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/post/public/blog/index.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/post/themes/AllinOne/layouts/partials/post-card.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/post/themes/AllinOne/layouts/partials/site-navbar.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/main/content/_index.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/main/config.toml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/exampleSite/content/blog/2018-08/blog养成记14-让同页滚动更平滑.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/homepage-header.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/page-heading.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/page-header.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/head.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/public/blog/page/10/index.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/public/blog/page/1/index.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/index.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-03-12-pencarian-passion-hidup.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-10-15-.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/about/_index.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/exampleSite/content/about/_index.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/_index.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-09-24-sertifikasi-bahasa-prancis-di-indonesia.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-08-27-kosakata-makanan-dan-minuman-dalam-bahasa-prancis-vocabulaire-de-la-nourriture-et-des-boissons-en-francais.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-10-15-satu-bulan-pertama-di-universitas-presiden.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-10-16-string-formating-di-python.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/sidebar-card.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/layouts/partials/li.html",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/exampleSite/content/blog/2018-08/前端试水2-使用docker镜像的sass配置.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-03-04-memulai-menulis-blog-lagi.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-03-22-selamatkan-laut-nusantara-kita.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-03-29-heboh-clickbaiting-di-internet.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-04-14-ujian-nasional-perlukah.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-05-15-tips-dan-trik-menghadapi-sbmptn-kelas-10-dan-11-wajib-baca.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-05-cara-mengintegrasikan-composer-pada-codeigniter.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-22-things-you-have-to-know-about-indonesia.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-26-fenomena-tenar-musiman-kenapa-banyak-yang-tidak-suka.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-26-otomatisasi-pada-browser-dengan-selenium-dan-python.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-26-perbedaan-dan-pengertian-synchronous-dan-asynchronous.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-27-mengapa-python-tidak-memiliki-array.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-06-28-cara-menambahkan-partisi-swap-pada-ubuntu-dengan-mudah.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-02-cara-membuat-modul-di-python-dan-mengimpornya.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-05-variabel-dan-tipe-data-dalam-python.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-07-cara-mengcompile-kode-python-dan-kegunaanya.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-08-magic-atau-double-underscore-dunder-method-dalam-python.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-11-konjektur-collatz.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-18-deret-aritmetika-dan-asal-mulanya.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-18-punya-e-mail-kampus-dapatkan-hal-hal-gratis-dan-diskon-disini.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-19-alasan-mengapa-anda-harus-mempelajari-bahasa-python-dan-apa-kekurangannya.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-20-warna-warna-dalam-bahasa-perancis-les-colours-en-francais.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-22-cara-mengubungkan-domain-ke-folder-tertentu-dengan-apache-http-server-di-virtual-machine.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-07-23-cara-mengatasi-dan-mencegah-aktivitas-tidak-valid-pada-google-adsense.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-08-22-mata-pelajaran-dalam-bahasa-perancis-cours-decole-en-francais.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/content/blog/2018-08-22-nama-binatang-dalam-bahasa-prancis-noms-danimaux-en-francais.md",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/themes/AllinOne/data/series.toml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io-dev/archetypes/default.md",
+		"/home/andraantariksa/.cache/.fr-4ihD8y/hugo-export/config.yaml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io/config.toml",
+		"/home/andraantariksa/Projects/andraantariksa.github.io/index.html",
+		"/home/andraantariksa/.ssh/andraantariksa.pub",
+		"/home/andraantariksa/Projects/andra-restore/config.yaml"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "code-exercise.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/codeexercise/codeexercise.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
